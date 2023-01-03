@@ -1,0 +1,3 @@
+D:/C/1.19/cmake-build-debug/CMakeFiles/1_19.dir
+D:/C/1.19/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C/1.19/cmake-build-debug/CMakeFiles/rebuild_cache.dir
